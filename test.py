@@ -1,1 +1,4 @@
-print("Hello")
+import tkinter
+
+mainWindow = tkinter.Tk()
+mainWindow.mainloop()
