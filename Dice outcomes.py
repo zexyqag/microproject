@@ -1,2 +1,0 @@
-def callback():
-    print("click!")
